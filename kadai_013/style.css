@@ -120,21 +120,21 @@ PC用のスタイル
     color: white;
   }
 
-  #nav-spa a:visited {
+  #nav-sp a:visited {
     color: white;
   }
 
-  #nav-spa a:hover {
+  #nav-sp a:hover {
     color: white;
     text-decoration: underline;
   }
 
 
-  #nav-spa a:active {
+  #nav-sp a:active {
     color: white;
   }
 
-  #nav-sp.menu {
+  #nav-sp .menu {
     text-decoration: none;
     display: block;
     margin: 0 20px;
